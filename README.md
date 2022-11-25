@@ -8,10 +8,15 @@ Atuei no desenvolvimento de todo o código em C++ que realiza o processamento do
 [Site para recebimento de dados](https://thingspeak.com/channels/961582)
 ![image](https://user-images.githubusercontent.com/103076610/204000111-496f231b-b38a-462a-98de-83cad9eeeb56.png)
 
+----
 Arquitetura básica do sistema:
 
 ![image](https://user-images.githubusercontent.com/103076610/204000359-1e2a0543-9ed9-4211-a77c-29c23ef922fd.png)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103076610/204000359-1e2a0543-9ed9-4211-a77c-29c23ef922fd.png" alt="Sublime's custom image"/>
+</p>
+----
 Distribuição dos sensores na casa:
 
 ![image](https://user-images.githubusercontent.com/103076610/204000462-54f87a1e-27ab-49ff-ac8d-91a67616d512.png)
