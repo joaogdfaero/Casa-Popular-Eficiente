@@ -6,3 +6,5 @@ ultra-violeta de uma casa. Por meio do sistema os dados medidos são enviados, e
 Atuei no desenvolvimento de todo o código em C++ que realiza o processamento dos dados dos sensores e posterior envio para um site da internet (thingspeak) e uma planilha do google sheets.
 
 [Site para recebimento de dados](https://thingspeak.com/channels/961582)
+![image](https://user-images.githubusercontent.com/103076610/204000111-496f231b-b38a-462a-98de-83cad9eeeb56.png)
+
