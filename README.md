@@ -9,7 +9,9 @@ Atuei no desenvolvimento de todo o código em C++ que realiza o processamento do
 ![image](https://user-images.githubusercontent.com/103076610/204000111-496f231b-b38a-462a-98de-83cad9eeeb56.png)
 
 Arquitetura básica do sistema:
+
 ![image](https://user-images.githubusercontent.com/103076610/204000359-1e2a0543-9ed9-4211-a77c-29c23ef922fd.png)
 
 Distribuição dos sensores na casa:
+
 ![image](https://user-images.githubusercontent.com/103076610/204000462-54f87a1e-27ab-49ff-ac8d-91a67616d512.png)
