@@ -11,7 +11,6 @@ Atuei no **desenvolvimento de todo o código em C++** que realiza o processament
 ----
 Arquitetura básica do sistema:
 
-![image](https://user-images.githubusercontent.com/103076610/204000359-1e2a0543-9ed9-4211-a77c-29c23ef922fd.png)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/103076610/204000359-1e2a0543-9ed9-4211-a77c-29c23ef922fd.png" alt="Sublime's custom image"/>
