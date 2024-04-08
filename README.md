@@ -1,4 +1,4 @@
-# Casa-Popular-Eficiente
+# Casa Popular Eficiente
 
 Projeto acadêmico cujo objetivo foi o de desenvolver um sistema para medição de temperatura e índice
 ultra-violeta de uma casa. Por meio do sistema os dados medidos são enviados, em tempo real, para a internet.
